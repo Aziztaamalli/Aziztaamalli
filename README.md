@@ -1,4 +1,4 @@
-<p align="left">Hello World!!</p>
+<p align="left">Hi 👋! My name is Aziz Tammalli and I'm a Software engineer from Tunisia</p>
 
 ###
 
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/Aziztaamalli/Aziztaamalli/output/snake.svg" alt="Snake animation" />
 
-#### Aziztaamalli
+###
